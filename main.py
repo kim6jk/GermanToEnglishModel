@@ -14,8 +14,6 @@ from training import train
 
 # split_dataset('pairs/english-german.pkl')
 
-#input_lang, output_lang = loadLangs('eng', 'deu', 'pairs/english-german-whole.pkl', True)
-
 hidden_size = 128
 batch_size = 32
 
